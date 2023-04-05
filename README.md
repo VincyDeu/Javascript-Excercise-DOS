@@ -1,1 +1,1 @@
-# Javascript-Excercise-DOS
+# Javascript-Exercise-DOS
